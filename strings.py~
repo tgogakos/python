@@ -1,0 +1,5 @@
+#!/usr/bin/python
+
+fo = open("foo.txt", "w+")
+fo.write("add this\n")
+fo.close()

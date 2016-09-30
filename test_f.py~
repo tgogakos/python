@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+def add(x):
+    return add2(x)+10 
+
+def add2(x):
+    y = x *2
+    return y
+
+print add(5)
+

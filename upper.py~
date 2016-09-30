@@ -1,4 +1,0 @@
-#!/usr/bin/python
-
-string = raw_input("enter seq")
-print string.upper()

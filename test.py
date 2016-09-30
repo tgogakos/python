@@ -8,7 +8,7 @@ from itertools import *
 #    else: 
  #       print "hey {}".format(i)
 
-l = 'ATGCATGx'
+l = 'TGx'
 
 a= list(l)
 
